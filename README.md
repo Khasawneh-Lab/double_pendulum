@@ -2,7 +2,7 @@
 
 This repo contains (or links to) the CAD, model, BOM, mechanical drawings, equations, and parameters for a manufactured double pendulum. A CAD rendering of the model is provided below.
 
-![Double Pendulum CAD Rendering](https://github.com/khasawn3/PE_parameter_selection/blob/master/Figures/PE_params.PNG)
+![Double Pendulum CAD Rendering](https://github.com/Khasawneh-Lab/double_pendulum/blob/master/figures/Double_Pendulum_Rendering.JPG)
 
 ## Download
 
